@@ -6,7 +6,7 @@ Toàn bộ hệ thống tính toán toán học, giải thuật tối ưu và gi
 
 ---
 
-## 👥 Nhóm Thực Hiện Dự Án
+## 👥 Nhóm Thực Hiện Dự Án:
 * **Môn học:** Các mô hình ra quyết định
 * **Đơn vị:** Trường Đại học Kinh tế
 * **Sinh viên:** Dương Thị Khánh Vy 
